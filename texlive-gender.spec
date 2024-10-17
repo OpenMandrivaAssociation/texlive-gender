@@ -3,7 +3,7 @@ Version:	36464
 Release:	2
 Summary:	Gender neutrality for languages with grammatical gender
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gender
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gender
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gender.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gender.doc.r%{version}.tar.xz
